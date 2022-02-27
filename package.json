@@ -1,0 +1,24 @@
+{
+  "name": "command-line-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeftarmascarenhas/command-line-nodejs.git"
+  },
+  "keywords": [],
+  "author": "Jeff Mascarenhas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeftarmascarenhas/command-line-nodejs/issues"
+  },
+  "homepage": "https://github.com/jeftarmascarenhas/command-line-nodejs#readme",
+  "devDependencies": {
+    "mocha": "^9.2.1"
+  }
+}
