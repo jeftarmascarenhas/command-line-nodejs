@@ -20,5 +20,8 @@
   "homepage": "https://github.com/jeftarmascarenhas/command-line-nodejs#readme",
   "devDependencies": {
     "mocha": "^9.2.1"
+  },
+  "dependencies": {
+    "commander": "^9.4.0"
   }
 }
